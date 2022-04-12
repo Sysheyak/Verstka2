@@ -1,0 +1,71 @@
+.Container{
+margin: 0 auto;
+padding: 80px 0;
+width: 1170px;
+}
+.Title {
+  color: #333;
+  font-size: 60px;
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: 400;
+  text-align: left;
+  line-height: 60px;
+  margin-bottom: auto;
+}
+.Uroven2 {
+  font-size: 40px;
+  line-height: 46px;
+  color:#333;
+  margin-bottom: auto;
+}
+H3 {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 34px;
+  color:#333;
+  margin-bottom: auto;
+}
+.Paragraph {
+  color: #333;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+}
+figure {
+font-size: 0;
+}
+::marker {
+  color: blue;
+  font-size: 1.2em;
+}
+p1 {
+width: 100%;
+padding-left: 95px;
+padding-right: 95px;
+padding-top: 50;
+padding-bottom: 50;
+border-radius: 20px;
+font-size: 30px;
+color: white;
+text-align: center;
+background-color: #3f2aff;
+}
+a:link {
+  color:3f2aff;
+  border-bottom:1px;
+  font-size: 20px;
+}
+.Figure{
+  display:inline-block;
+  margin:0 auto;
+}
+.Caption{
+text-align: center;
+border-bottom: 1px solid;
+border-left: 1px solid;
+border-right: 1px solid;
+color: #b6b6b6;
+padding: 19px 0%;
+font-weight: 400;
+font-size: 14px;
+}
